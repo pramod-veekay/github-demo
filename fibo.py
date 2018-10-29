@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-
+# Function to return the fibonacci series for count of n
 def fib(n):
     a=0
     b=1
